@@ -5,7 +5,7 @@ This is designed for the occasional or hobby wood turner. Often there are breaks
 ## Turning Tools
 
 1. Lathe, Centre points, Chuck and Tool rest (Banjo)
-2. Wood turning Chisels
+2. Wood turning Chisels and sharpening options.
 3. Sand paper 80, 120, 220, 360, 400 (fabric back). Soft orbital sander
 4. Eye, Ear and dust protection, Wood turners jacket, Overboot covers (Stops wood chips into work boots)
 5. Center whole Drill bits, Forstner bits, Forstner bit extension, Wood Plug Cutters
